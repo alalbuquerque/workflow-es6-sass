@@ -1,7 +1,7 @@
 const message = 'this is home'
 
 const foo = () => {
-    console.log(message, Foundation)
+    console.log(message)
 }
 
 foo()
